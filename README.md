@@ -1,3 +1,15 @@
+# SmartBrain - v2
+Final project for Udemy course
+    Practice JWT, React, Redis, Docker and more
+
+Project isn't and probably won't be finished...
+
+register doesn't save session
+
+update profile doesn't save all information
+
+Run Backend first
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
